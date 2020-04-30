@@ -1,5 +1,7 @@
 # brown-thumb-begone
 
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
 > A simple web app to keep track of your plants and their needs.
 
 ## Build Setup
